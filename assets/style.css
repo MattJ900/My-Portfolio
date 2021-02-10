@@ -9,14 +9,16 @@ body {
     margin: 0;
 }
 
+
 nav button {
     width: 250px;
-    margin: 0 .5%;
+    margin: 10px 0.5% 100px 0.5%;
     border: 3px solid;
     justify-content: center;
     padding: 1px;
 
 }
+
 
 .MAJ {
     justify-content: center;
@@ -24,11 +26,11 @@ nav button {
     align-items: center;
 }
 
-.Text {
+#Text {
     color:black;
     border: 4px solid black;
     text-align: center;
     font-family:Calibri;
-    margin: 10px 200px 10px 200px;
+    margin: 10px 30% 10px 30%;
 
 }
