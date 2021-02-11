@@ -43,21 +43,21 @@ nav button {
     font-size: 1.5em;
     
 
+}@media screen and (max-width: 992px) {
+    * {
+      width: 100%;
+    }
+    * {
+      background:teal;
+    }
 }
-
-
-/* width: 250px;
-margin: 10px 0.5% 100px 0.5%; 
-border: 3px solid;
-justify-content: center;
-padding: 1em;
-font-size: 1.5em; */ 
-
-
-
-
-/* width: 250px;
-margin: 10px 0.5% 100px 0.5%;
-border: 3px solid;
-justify-content: center;
-padding: 1px; */
+  
+@media screen and (max-width: 768px) {
+    * {
+        width: 100%;
+    }
+    
+    * {
+        background: #8ac4ff;
+    }
+}
