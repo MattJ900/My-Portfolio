@@ -28,6 +28,11 @@ nav button {
     align-items: center;
 }
 
+.Contact {
+    display:flex;
+    margin: 0 auto;
+}
+
 #Text {
     color:black;
     border: 4px solid black;
