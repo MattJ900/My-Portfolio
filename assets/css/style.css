@@ -43,7 +43,21 @@ nav button {
     font-size: 1.5em;
     
 
-}@media screen and (max-width: 992px) {
+}
+
+iframe {
+    align-items: center;
+    margin-left: 20%;
+}
+
+.LI-profile-badge {
+    align-items: center;
+    margin-left: 20%;
+
+}
+
+
+@media screen and (max-width: 992px) {
     * {
       width: 100%;
     }
